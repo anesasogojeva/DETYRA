@@ -54,3 +54,67 @@ header span{
     width: 30px;
     height: 30px; margin-left: 15px;
 }
+
+.f{
+    height: 600px; 
+    width: 390px;
+    margin-left: 120px;
+}
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-color:rgb(239, 239, 239);
+    background-color: rgb(233, 233, 233);
+}
+
+
+.d{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-right: 190px;
+}
+.r{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 110px;
+    margin-right: 100px;
+padding: 25px;
+}
+#butoni{
+    background-color: rgb(236, 176, 65);
+    color: white;
+    width: 70px;
+    height: 50px;
+}
+#searchInputField{
+    display: none;
+    width: 150px;
+    height: 30px;
+   margin-top: 15px;
+    justify-content: center;
+}
+.e input{
+ border-style:dashed;
+}
+.purple{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(119, 27, 97);
+    padding: 30px;
+}
+.healthy{
+   
+    
+    display: flex;
+    align-items: baseline;
+flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+}
