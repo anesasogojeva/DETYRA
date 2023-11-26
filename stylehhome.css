@@ -118,3 +118,13 @@ flex-direction: row;
     align-items: center;
     margin-left: 80px;
 }
+.back{
+    background-color: rgba(221, 227, 227, 0.801);
+}
+.soup{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 15px;
+ 
+}
