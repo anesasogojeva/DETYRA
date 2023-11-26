@@ -128,3 +128,26 @@ flex-direction: row;
     padding: 15px;
  
 }
+.teksti{
+    padding: 10px;
+    background-color: white;
+width: 400px;
+}
+.bp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgb(119, 27, 97);
+    width: 180px;
+    height: 40px;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+}
+.parafooter{
+    display: flex;
+    justify-content: space-between;
+}
