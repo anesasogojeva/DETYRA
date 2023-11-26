@@ -133,6 +133,11 @@ flex-direction: row;
     background-color: white;
 width: 400px;
 }
+.soup .bp{
+    display: FLEX;
+    flex-direction: column;
+    align-items: center;
+}
 .bp{
     display: flex;
     flex-direction: column;
@@ -143,6 +148,7 @@ width: 400px;
     width: 180px;
     height: 40px;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 a{
     text-decoration: none;
@@ -212,6 +218,7 @@ footer{
 
 }
  @media  screen  and (max-width:748px) {
+
     header h1{
         margin-left: 10px;
     }
