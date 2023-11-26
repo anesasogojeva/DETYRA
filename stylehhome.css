@@ -81,6 +81,7 @@ header span{
     justify-content: space-between;
     margin-left: 110px;
     margin-right: 100px;
+    align-items: center;
 padding: 25px;
 }
 #butoni{
