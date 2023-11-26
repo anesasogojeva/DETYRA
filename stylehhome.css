@@ -187,7 +187,7 @@ footer{
     width: 30px;
     height: 30px; margin-left: 15px;
 }
-@media  screen  and (max-width:748px) {
+@media  screen  and (max-width:1300px) {
     header h1{
         margin-left: 10px;
     }
@@ -217,7 +217,7 @@ footer{
     }
 
 }
- @media  screen  and (max-width:748px) {
+ @media  screen  and (max-width:1000px) {
 
     header h1{
         margin-left: 10px;
