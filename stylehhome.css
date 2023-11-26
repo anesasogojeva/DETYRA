@@ -1,0 +1,56 @@
+.d h1{
+    font-size:50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: rgb(224, 103, 103);
+}
+.d h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.d p{
+    color: rgb(104, 103, 103);font-size: 22px;
+}
+header h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    color: rgb(224, 103, 103);
+    margin-left: 150px;
+}
+header span{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hederi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.faqet{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+   justify-content: space-evenly;
+}
+.faqet a{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+    text-shadow: 2px 2px 5px rgb(102, 81, 81);
+    font-weight: bold;
+}
+.faqet button{
+    margin: 20px;
+}
+#home {
+  width: 20px;
+  height: 20px; 
+}
+#next {
+  width: 30px;
+  height: 27px;
+  background-color: white;
+  border-color: white;
+}
+.r img{
+    width: 30px;
+    height: 30px; margin-left: 15px;
+}
